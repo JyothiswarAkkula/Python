@@ -1,0 +1,9 @@
+for index in range(3):    #range is a class
+    print(index)
+
+    str1="Jyothiswar"        #str objest
+    for ch in str1:
+     print(ch)
+
+
+
